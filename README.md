@@ -3,7 +3,7 @@
 This is a simple clone of Tumblr where the user can log in,
 create,edit or delete some posts,view them and write or delete comments on posts.
 Only the users logged in can create, delete or edit post and comments.
-This app is written using Rails, Haml, Html and Sass.
+This app is written using Rails, Html and Sass.
 
 Some of the gems I used :
 * devise
