@@ -1,4 +1,4 @@
-# Timblr Clone
+# Tumblr Clone
 
 This is a simple clone of Tumblr where the user can log in,
 create,edit or delete some posts,view them and write or delete comments on posts.
